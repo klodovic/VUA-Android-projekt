@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:context=".AboutFragment">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="266dp"
+            android:layout_weight="0"
+            android:contentDescription="@string/beer_image"
+            android:src="@drawable/beer" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            android:gravity="center_horizontal"
+            android:text="@string/about_beer"
+            android:textStyle="bold"
+            android:layout_marginTop="30dp"
+            android:textSize="26sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="@string/Dummy_text"
+            android:textSize="18sp"
+            android:paddingHorizontal="30dp"
+            android:paddingTop="20dp"
+            android:justificationMode="inter_word"
+            />
+
+
+    </LinearLayout>
+</ScrollView>

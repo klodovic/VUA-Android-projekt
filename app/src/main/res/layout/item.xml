@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardBackgroundColor="@color/white"
+    app:cardUseCompatPadding="true"
+    >
+
+    <LinearLayout
+        android:padding="@dimen/paddingItems"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/ivItem"
+            android:contentDescription="@string/beer_image"
+            android:layout_width="@dimen/imageWidth"
+            android:layout_height="@dimen/imageHeight"
+            tools:src="@drawable/a" />
+
+        <TextView
+            android:id="@+id/tvTextItem"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginStart="@dimen/marginLeft"
+            android:gravity="center_vertical"
+            android:textSize="@dimen/textSize15SP"
+            android:fontFamily="sans-serif-light"
+            android:textFontWeight="@android:integer/config_mediumAnimTime"
+            android:textColor="@color/material_on_surface_emphasis_medium"
+            android:text="@string/picture_of_a_day"
+            />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

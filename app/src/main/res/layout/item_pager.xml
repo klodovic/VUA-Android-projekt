@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding = "@dimen/paddingItems20dp">
+
+        <ImageView
+            android:id="@+id/ivItem"
+            android:contentDescription="@string/beer_image"
+            android:layout_width="match_parent"
+            android:layout_height="240dp"
+            tools:src="@drawable/beer" />
+
+        <LinearLayout
+            android:layout_marginTop="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="90dp"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textColor="@android:color/tertiary_text_dark"
+                android:text="@string/first_brewed"/>
+
+            <TextView
+                android:id="@+id/tvFirstBrewed"
+                android:layout_width="239dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                tools:text="yyyy-MM-dd" />
+
+            <ImageView
+                android:id="@+id/ivRead"
+                android:contentDescription="@string/flag"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_weight="1"
+                tools:src="@drawable/ic_baseline_flag_circle_24_red"/>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0"
+            android:gravity="center_horizontal"
+            android:text="@string/lorem_ipsum"
+            android:textStyle="bold"
+            android:layout_marginTop="30dp"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/tvDescription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:textSize="16sp"
+            android:justificationMode="inter_word"
+            tools:text="@tools:sample/lorem/random" />
+
+        <LinearLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textStyle="bold"
+                android:textColor="@android:color/tertiary_text_dark"
+                android:text="@string/brewed_tips"/>
+
+            <TextView
+                android:id="@+id/tvBrewedTips"
+                android:layout_width="152dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                tools:text="Lorem ipsum" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textStyle="bold"
+                android:textColor="@android:color/tertiary_text_dark"
+                android:text="@string/contributed_by"/>
+
+            <TextView
+                android:id="@+id/tvContributedBy"
+                android:layout_width="119dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                tools:text="Lorem ipsum" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Scout</string>
+    <string name="logo">logo</string>
+    <string name="tvSplashPlease_wait">Please wait</string>
+    <string name="no_internet">No Internet</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="items">items</string>
+    <string name="about">about</string>
+    <string name="Map">Map</string>
+    <string name="home">Home</string>
+    <string name="map">Map</string>
+    <string name="About">About</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Are_you_sure">Are you sure?</string>
+    <string name="Exit">Exit</string>
+    <string name="Ok">Ok</string>
+    <string name="beer_loading">Beer loading</string>
+    <string name="delete_beer">Delete beer </string>
+    <string name="date">Date:</string>
+    <string name="first_brewed">First brewed:</string>
+    <string name="beer_image">Beer image</string>
+    <string name="flag">Flag</string>
+    <string name="lorem_ipsum">Lorem ipsum</string>
+    <string name="brewed_tips">Brewed Tips:</string>
+    <string name="contributed_by">Contributed by:</string>
+    <string name="picture_of_a_day">Picture of a day</string>
+    <string name="about_beer">About beer</string>
+    <string name="Dummy_text">Beer is one of the world\'s oldest prepared alcoholic drinks. The earliest archaeological evidence of fermentation consists of 13,000-year-old residues of a beer with the consistency of gruel, used by the semi-nomadic Natufians for ritual feasting, at the Raqefet Cave in the Carmel Mountains near Haifa in Israel. There is evidence that beer was produced at Göbekli Tepe during the Pre-Pottery Neolithic (around 8500 BC to 5500 BC). The earliest clear chemical evidence of beer produced from barley dates to about 3500–3100 BC, from the site of Godin Tepe in the Zagros Mountains of western Iran. It is possible, but not proven, that it dates back even further—to about 10,000 BC, when cereal was first farmed. \n\nBeer was spread through Europe by Germanic and Celtic tribes as far back as 3000 BC, and it was mainly brewed on a domestic scale. The product that the early Europeans drank might not be recognised as beer by most people today. Alongside the basic starch source, the early European beers may have contained fruits, honey, numerous types of plants, spices and other substances such as narcotic herbs. What they did not contain was hops, as that was a later addition, first mentioned in Europe around 822 by a Carolingian Abbot and again in 1067 by abbess Hildegard of Bingen.</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

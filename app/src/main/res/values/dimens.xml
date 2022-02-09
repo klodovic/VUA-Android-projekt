@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nhMarginTop">25dp</dimen>
+    <dimen name="nhHeight">80dp</dimen>
+    <dimen name="nhWidth">150dp</dimen>
+    <dimen name="nvWidth">162dp</dimen>
+    <dimen name="nvHeight">240dp</dimen>
+    <dimen name="paddingItems">10dp</dimen>
+    <dimen name="marginLeft">10dp</dimen>
+    <dimen name="textSize15SP">15sp</dimen>
+    <dimen name="imageWidth">50dp</dimen>
+    <dimen name="imageHeight">50dp</dimen>
+    <dimen name="paddingItems20dp">20dp</dimen>
+</resources>

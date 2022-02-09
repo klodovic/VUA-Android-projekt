@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Next Design/Desktop/Android Projekt/app/src/main/res/layout/fragment_about.xml" value="0.33559782608695654" />
+        <entry key="..\:/Users/Next Design/Desktop/Android/Android/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.5138888888888888" />
+        <entry key="..\:/Users/Next Design/Desktop/Android/Android/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.5138888888888888" />
+        <entry key="..\:/Users/Next Design/Desktop/Android/Android/app/src/main/res/drawable/ic_menu.xml" value="0.5615384615384615" />
+        <entry key="..\:/Users/Next Design/Desktop/Android/Android/app/src/main/res/drawable/navigation_text_color.xml" value="0.48072916666666665" />
+        <entry key="..\:/Users/Next Design/Desktop/Android/Android/app/src/main/res/layout/activity_host.xml" value="0.374777183600713" />
+        <entry key="..\:/Users/Next Design/Desktop/Android/Android/app/src/main/res/layout/activity_item_pager.xml" value="0.45729166666666665" />
+        <entry key="..\:/Users/Next Design/Desktop/Android/Android/app/src/main/res/layout/activity_maps.xml" value="0.29635416666666664" />
+        <entry key="..\:/Users/Next Design/Desktop/Android/Android/app/src/main/res/layout/activity_splash_screen.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/Next Design/Desktop/Android/Android/app/src/main/res/layout/fragment_about.xml" value="0.455564451561249" />
+        <entry key="..\:/Users/Next Design/Desktop/Android/Android/app/src/main/res/layout/fragment_items.xml" value="0.33" />
+        <entry key="..\:/Users/Next Design/Desktop/Android/Android/app/src/main/res/layout/fragment_map.xml" value="0.535277516462841" />
+        <entry key="..\:/Users/Next Design/Desktop/Android/Android/app/src/main/res/layout/item.xml" value="0.46875" />
+        <entry key="..\:/Users/Next Design/Desktop/Android/Android/app/src/main/res/layout/item_pager.xml" value="0.357187696170747" />
+        <entry key="..\:/Users/Next Design/Desktop/Android/Android/app/src/main/res/layout/navigation_header.xml" value="0.46458333333333335" />
+        <entry key="..\:/Users/Next Design/Desktop/Android/Android/app/src/main/res/menu/bottom_navigation.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Next Design/Desktop/Android/Android/app/src/main/res/menu/host_menu.xml" value="0.46458333333333335" />
+        <entry key="..\:/Users/Next Design/Desktop/Android/Android/app/src/main/res/menu/navigation_menu.xml" value="0.46458333333333335" />
+        <entry key="..\:/Users/Next Design/Desktop/Android/Android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.48072916666666665" />
+        <entry key="..\:/Users/Next Design/Desktop/AndroidProjekt/app/src/main/res/layout/fragment_about.xml" value="0.3423913043478261" />
+        <entry key="..\:/Users/Next Design/Desktop/AndroidProjekt/app/src/main/res/layout/fragment_items.xml" value="0.3423913043478261" />
+        <entry key="..\:/Users/Next Design/Desktop/AndroidProjekt/app/src/main/res/layout/fragment_map.xml" value="0.3423913043478261" />
+        <entry key="..\:/Users/Next Design/Desktop/AndroidProjekt/app/src/main/res/layout/fragment_maps.xml" value="0.4583333333333333" />
+        <entry key="..\:/Users/Next Design/Desktop/AndroidProjekt/app/src/main/res/layout/item.xml" value="0.3423913043478261" />
+        <entry key="..\:/Users/Next Design/Desktop/AndroidProjekt/app/src/main/res/layout/item_pager.xml" value="0.3423913043478261" />
+        <entry key="..\:/Users/Next Design/Desktop/AndroidProjekt/app/src/main/res/menu/bottom_navigation.xml" value="0.4583333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
